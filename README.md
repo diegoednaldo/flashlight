@@ -7,7 +7,7 @@ Desafio dio: Construindo um app usando o sensor de movimento com React Native
 ![image](assets/flashlight_on.png)
 
 
-## Conteúdo
+## Conteúdo:
 
 - Libs react-native-shake e react-native-torch
 - icons
